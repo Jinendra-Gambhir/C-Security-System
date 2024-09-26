@@ -60,8 +60,7 @@ Users can update their password by providing the old password and confirming the
 - Basic Error Handling: Displays appropriate messages for incorrect inputs.
 ## Screenshots
 
-![App Screenshot](https://github.com/Jinendra-Gambhir/Health-Analytics-for-OCD-Analysis/blob/main/Images/PowerBI_Image.png)
-![App Screenshot](https://github.com/Jinendra-Gambhir/Health-Analytics-for-OCD-Analysis/blob/main/Images/Excel_Image.png)
+![App Screenshot](https://github.com/Jinendra-Gambhir/C-Security-System/blob/main/Result/img1.png)
 
 
 ## Authors
